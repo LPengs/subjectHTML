@@ -1,0 +1,6 @@
+.input_1 {outline: none;}
+.text_small {font-size: 0.85rem !important;}
+.input_1:focus{box-shadow: 0 0 0 0 #fff;}
+.breadcrumb-item + .breadcrumb-item::before{
+    content: "|";
+}
